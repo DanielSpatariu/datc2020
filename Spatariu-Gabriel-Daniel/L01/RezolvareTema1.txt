@@ -1,0 +1,3 @@
+Dropbox
+   Serviciu de cloud care ofera spatiu de stocare a datelor si programelor de tip client.
+Aceasta aplicatie poate fi sincronizata cu diferite device-uri, astfel incat datele stocate sa fie usor accesibile de pe oricare dintre device-uri. Acesta implementeaza un model de afecere de tipul freemium, astfel incat utilizatorii pot creea un cont gratuit si pot folosi aplicatia, dar avand la dispozitie o cantitate limitata de date pe care o pot incarca. Pentru extra spatiu, se poate percepe un abonament lunar. Acest serviciu ofera si o aplicatie pentru desktop(Windows, macOS, Linux) si mobile(Android, iOS,Windows Phone).
